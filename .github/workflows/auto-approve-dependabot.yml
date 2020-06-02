@@ -1,4 +1,4 @@
-  name: Auto-approve Dependabot PRs
+name: Auto-approve Dependabot PRs
 
 on:
   pull_request
